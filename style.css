@@ -1,0 +1,9 @@
+.main-Container {
+  margin: auto;
+  max-width: 800px;
+  padding: 1rem;
+}
+
+i {
+  cursor: pointer;
+}
